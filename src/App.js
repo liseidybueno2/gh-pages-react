@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <p>
           My awesome GitHub page running using React.
         </p>
         <a
